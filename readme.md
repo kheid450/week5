@@ -3,6 +3,7 @@ In this exercise, you will write 4 VIs that measures the response of [Kundt's Tu
 0) Create a project from LabView menu. We are going to use this project as our container, all the VIs created will be created in this project.
 
 1) Write a VI called CreateIntegerArray that creates an array with given minimum, maximum and number of points. It also should be able to select between linear and logarithmic spacing. It should always have integer outputs.
+
 ![CreateIntegerArray.vi](images/CreateIntegerArray.png)
 
 2) Write a VI called SignalGenerator that generates a sine wave with given frequency and amplitude and outputs from AO. You can take a look at Problem 4.6 (Bode Magnitude Plot), for detailed instructions.
